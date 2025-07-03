@@ -18,10 +18,14 @@ End-to-End ML Projects & Model Deployment
 🛠️ Tech Stack:
 
 Languages: Python, SQL
+
 Dashboard: Excel, PowerBI
+
 Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow.
+
 Platforms: Jupyter, Colab, VSCode
-Databases & Cloud: MySQL, Microsoft SQL server.
+
+Databases MySQL, Microsoft SQL server.
 
 🤝 Let’s Connect!
 📬 Email Me :- ahmedshavez18@gamil.com
