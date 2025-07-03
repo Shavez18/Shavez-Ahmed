@@ -16,6 +16,7 @@ Computer Vision
 End-to-End ML Projects & Model Deployment
 
 🛠️ Tech Stack:
+
 Languages: Python, SQL
 Dashboard: Excel, PowerBI
 Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow.
